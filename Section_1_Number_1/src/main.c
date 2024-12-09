@@ -21,7 +21,6 @@ void UART2_Init(void);
 void ADC1_Init(void);
 void TIM3_Init(void);
 void UART_Receive_Data(void);
-void UART_Send_Data(char *data);
 
 int main(void)
 {
